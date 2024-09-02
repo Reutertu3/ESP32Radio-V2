@@ -1,7 +1,8 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"name": "ESP_Radio_S3",
+			"path": "../ESP_Radio_S3"
 		}
 	],
 	"settings": {
